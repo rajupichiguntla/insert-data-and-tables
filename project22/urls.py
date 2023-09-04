@@ -25,9 +25,9 @@ urlpatterns = [
     path('display_topic/',display_topic,name='display_topic'),
     path('display_webpage/',display_webpage,name='display_webpage '),
     path('display_access/',display_access,name='display_access'),
-    path('in_topic/',in_topic,name='in_topic'),
-    path('in_webpage/',in_webpage,name='in_webpage'),
-    path('in_access/',in_access,name='in_access'),
+    #path('in_topic/',in_topic,name='in_topic'),
+    #path('in_webpage/',in_webpage,name='in_webpage'),
+    #path('in_access/',in_access,name='in_access'),
     
    
 ]
